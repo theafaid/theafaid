@@ -12,6 +12,5 @@ A software developer.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theafaid&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=light" alt="theafaid" /></p>
 
 
-[![GitHub Stats Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theafaid&langs_count=15&theme=dracula&hide_title=true&layout=compact&hide_border=true)](https://github.com/theafaid)
+[![GitHub Stats Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theafaid&langs_count=15&theme=light&hide_title=true&layout=compact&hide_border=true)](https://github.com/theafaid)
 
-[![Metrics](/github-metrics.svg)](https://github.com/theafaid)
