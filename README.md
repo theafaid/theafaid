@@ -19,9 +19,3 @@
 <a href="http://www.github.com/theafaid"><img
         src="https://activity-graph.herokuapp.com/graph?username=miladezzat&bg_color=ddd&color=000&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
         alt="GitHub Commits Graph" style="width: 994px;border-radius: 5px;" /></a>
-<p align="center"> 
-  <h2 align="center">Visitors count</h2>
-</p>
-<p align = "center">
-  <img src="https://profile-counter.glitch.me/theafaid/count.svg" />
-</p>
